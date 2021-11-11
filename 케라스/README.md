@@ -38,3 +38,18 @@ from tensorflow.keras.layers import Dense
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+
+<br>
+
+## 🔥 Pandas
+
+`참고` [Pandas](https://pandas.pydata.org/docs/reference/frame.html)
+
+- 데이터를 불러오고 내용을 파악 할 수 있는 효과적인 방법 -> 데이터를 시각화
+
+<br>
+
+## 🔥 Matplotlib
+
+- 데이터를 그래프로 표현해 성격을 파악 하는 것이 중요함
+- **seaborn** : matplotlib 기반으로 통계 데이터 시각화에 최적화된 라이브러리, 정보끼리의 상관관계를 알아봄
